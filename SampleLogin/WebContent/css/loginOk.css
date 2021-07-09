@@ -1,0 +1,26 @@
+@charset "UTF-8";
+#rig{
+	width:280px;
+	height:50px;
+	position:absolute;
+	top:0px;
+	right:0px;
+}
+body {
+	
+	background-color: #56f709;
+}
+table{
+	width:900px;
+	margin-right:auto;
+	margin-left:auto;
+	border:solid 2px black;
+	border-collapse:collapse;
+	text-align:center;
+}
+#form{
+	text-align:center;
+}
+h1{
+	text-align:center;
+}
